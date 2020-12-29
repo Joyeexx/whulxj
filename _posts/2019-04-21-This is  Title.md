@@ -11,6 +11,6 @@ tags:
 ---
 
 
-# Title Joy
+# Title 
 
 content
