@@ -1,6 +1,6 @@
 # Site settings
-title: My Blog
-SEOTitle: 我的博客 | My Blog
+title: Joy Blog
+SEOTitle: Joy的博客 | Joy Blog
 header-img: img/post-bg-desk.jpg
 email: 暂无
 description: "小禾才露尖尖角"
@@ -11,7 +11,7 @@ github_repo: "https://github.com/joyeexx/whulxj.github.io.git" # you code reposi
 
 # Sidebar settings
 sidebar: true                           # whether or not using Sidebar.
-sidebar-about-description: "苟利国家生死以，岂因祸福避趋之~"
+sidebar-about-description: "不端不装，有梦有趣"
 sidebar-avatar: /img/avatar_binggan.jpg      # use absolute URL, seeing it's used in both `/` and `/about/`
 
 
