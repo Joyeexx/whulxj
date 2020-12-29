@@ -6,7 +6,7 @@ email: 暂无
 description: "小禾才露尖尖角"
 keyword: "我的博客"
 repository: joyeexx/whulxj.github.io
-url: https://joyeexx/whulxj.github.io          # your host, for absolute URL
+url: https://joyeexx.github.io/whulxj/         # your host, for absolute URL
 baseurl: ""      # for example, '/blog' if your blog hosted on 'host/blog'
 github_repo: "https://github.com/joyeexx/whulxj.github.io.git" # you code repository
 
